@@ -1,8 +1,8 @@
 # Flow deep dive
 
-A summer review project to practice browser flow &amp; CSS box model. 
+A summer review project to practice browser flow &amp; CSS box model.
 
-#### [⬇ Download the content](https://github.com/acgd-summer-reviews/flow-deep-dive/archive/master.zip)
+#### [⬇ Download the content](https://github.com/ltw-summer-reviews/flow-deep-dive/archive/master.zip)
 
 ---
 
@@ -52,19 +52,19 @@ Using only typography and box model CSS properties, complete the layout to match
 
 ## Relevant tutorials & tools
 
-- [Using CSS](http://learn-the-web.algonquindesign.ca/topics/using-css/)
-- [CSS indentation](http://learn-the-web.algonquindesign.ca/topics/css-indentation/)
-- **[CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)**
-- [Basic typography](http://learn-the-web.algonquindesign.ca/topics/basic-typography/)
-- [Using Google Fonts](http://learn-the-web.algonquindesign.ca/topics/google-fonts/)
-- **[Web typography cheat sheet](http://learn-the-web.algonquindesign.ca/topics/web-typography-cheat-sheet/)**
-- [Browser developer tools](http://learn-the-web.algonquindesign.ca/topics/browser-developer-tools/)
-- [Validators](http://learn-the-web.algonquindesign.ca/topics/validators/)
-- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
-- [Browser testing checklist](http://learn-the-web.algonquindesign.ca/topics/browser-testing-checklist/)
-- **[Everything is a box](http://learn-the-web.algonquindesign.ca/topics/box-model/)**
-- **[Flow & display](http://learn-the-web.algonquindesign.ca/topics/flow-display/)**
-- [Typography-only layout](http://learn-the-web.algonquindesign.ca/topics/typography-only-layout/)
+- [Using CSS](https://learntheweb.coures/topics/using-css/)
+- [CSS indentation](https://learntheweb.coures/topics/css-indentation/)
+- **[CSS selectors & units cheat sheet](https://learntheweb.coures/topics/css-selectors-units-cheat-sheet/)**
+- [Basic typography](https://learntheweb.coures/topics/basic-typography/)
+- [Using Google Fonts](https://learntheweb.coures/topics/google-fonts/)
+- **[Web typography cheat sheet](https://learntheweb.coures/topics/web-typography-cheat-sheet/)**
+- [Browser developer tools](https://learntheweb.coures/topics/browser-developer-tools/)
+- [Validators](https://learntheweb.coures/topics/validators/)
+- [Browser testing](https://learntheweb.coures/topics/browser-testing/)
+- [Browser testing checklist](https://learntheweb.coures/topics/browser-testing-checklist/)
+- **[Everything is a box](https://learntheweb.coures/topics/box-model/)**
+- **[Flow & display](https://learntheweb.coures/topics/flow-display/)**
+- [Typography-only layout](https://learntheweb.coures/topics/typography-only-layout/)
 
 ---
 
@@ -77,7 +77,7 @@ Using only typography and box model CSS properties, complete the layout to match
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
 
 **Assets used:**
 
